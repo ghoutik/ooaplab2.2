@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Jewelry">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAgAAAAQAChAAAhABAAAgBAAIQAAAAAA=</HashCode>
+      <FileName>task2.2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JewelryBuilder" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAAAAAIQAAgAAAhAAQAIAAAAIAAAAAAA=</HashCode>
+      <FileName>task2.2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoldJewelryBuilder">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAAAAAAQAAgAAAhAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>task2.2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SilverJewelryBuilder">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAAAAAAQAAgAAAhAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>task2.2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JewelryDirector">
+    <Position X="13.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAIgAAAAAAAAAAAAQAAAAAAAAAAAAAI=</HashCode>
+      <FileName>task2.2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
